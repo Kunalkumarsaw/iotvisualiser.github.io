@@ -4,7 +4,7 @@ import './footer.scss'
 const Footer = () => {
   return (
     <footer>
-        <p>Made by - <a href="https://github.com/rajaryanece" target="blank">Raj,Kunal,Sudhanva</a></p>
+        <p>Madeby - <a href="https://github.com/rajaryanece" target="blank">Raj</a></p>
     </footer>
   )
 }
