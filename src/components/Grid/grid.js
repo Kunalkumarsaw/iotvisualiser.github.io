@@ -153,7 +153,7 @@ const Grid = () => {
           )
         })}
       </div>
-      <a className="github" href='https://github.com/tanuj1811/Path-Visualizer' target="_blank" rel="noreferrer"><FaGithub /></a>
+      <a className="github" href='https://github.com/rajaryanece/iotvisualiser.github.io' target="_blank" rel="noreferrer"><FaGithub /></a>
     </div>
   )
 }
