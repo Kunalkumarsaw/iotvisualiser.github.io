@@ -34,7 +34,7 @@ const Grid = () => {
     setFinishNodeIdx([FINISH_NODE_ROW, FINISH_NODE_COL])
     const newGrid = initializeGrid()
     setGrid(newGrid)
-  }, [])
+  }, [initializeGrid, setFinishNodeIdx, setGrid, setStartNodeIdx])
 
   const mouseDownHandler = (row, col) => {
     var newGrid = grid
